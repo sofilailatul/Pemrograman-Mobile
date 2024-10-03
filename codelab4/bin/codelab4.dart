@@ -1,4 +1,3 @@
-import 'package:codelab4/codelab4.dart' as codelab4;
 
 void main() {
   //Praktikum 1
